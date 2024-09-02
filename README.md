@@ -1,0 +1,1 @@
+This repository contains files with solutions to the Alx '0x04. Files manager' task.
