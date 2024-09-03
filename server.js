@@ -5,6 +5,9 @@ const app = express();
 
 const port = process.env.PORT || 5000;
 
+//middleware to parse json
+app.use(express.json());
+
 // load routes
 app.use('/', routes);
 
